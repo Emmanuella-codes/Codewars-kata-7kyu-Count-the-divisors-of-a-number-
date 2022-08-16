@@ -1,5 +1,7 @@
-// Import stylesheets
-import './style.css';
+// Create a variable to store the count
+// use a for loop to count from 1 to the number
+// then use an if statement to check the remainder of the numbers
+// increment the count (divisors)
 
 function getDivisorsCnt(n){
   let count = 0;
